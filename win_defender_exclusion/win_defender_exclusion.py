@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 
 # (c) 2017, David Baumann <dabondi@noreply.users.github.com>
-# No Licenc defined
+# GNU GENERAL PUBLIC LICENSE v3
 
 DOCUMENTATION = '''
 ---

@@ -1,6 +1,6 @@
 #!powershell
 # (c) 2017, David Baumann <daBONDi@users.noreply.github.com>
-# No Licence Defined
+# GNU GENERAL PUBLIC LICENSE v3
 #
 # WANT_JSON
 # POWERSHELL_COMMON
